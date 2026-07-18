@@ -1,0 +1,25 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title-backing{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(210, 68%, 90%);
+    margin: 10px;
+    padding: 10px;
+}
+
+.backing{
+    background-color: hsl(210, 68%, 90%);
+    margin: 20px;
+    padding: 20px;
+}
+
+#sumo{
+    background-color: #f3a8fa;
+}
+
+.skull-fix {
+  width: auto;
+  height: 25px;
+}
